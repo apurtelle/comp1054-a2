@@ -1,0 +1,55 @@
+.song-name {
+    color: white;
+    font-size: 10vmin;
+    margin-bottom: 0;
+
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.band-name {
+    color: red;
+    font-size: 7vmin;
+    margin-top: 0;
+
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.lyrics {
+    color: white;
+    font-size: 4vmin;
+
+    font-family: "Tinos", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.content {
+    margin: 0 auto;
+    margin-left: 12.5%;
+    padding: 15px;
+    width: 75%;
+    height: auto;
+    min-height: 100%;
+    text-align: center;
+    background-color: black;
+}
+
+body {
+    margin: 0;
+    background: url(/images/album_cover.jpg);
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.polka_never_dies {
+    font-weight: bold;
+    color: red;
+
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
