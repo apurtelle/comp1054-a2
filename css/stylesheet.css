@@ -40,7 +40,7 @@
 
 body {
     margin: 0;
-    background: url(/images/album_cover.jpg);
+    background: url(../images/album_cover.jpg);
     background-attachment: fixed;
     height: 100vh;
 }
